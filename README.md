@@ -1,7 +1,5 @@
 # useful-commands
 
-
-
-- [Git commands](Git commands.md)
-- [macOS commands](macOS commands.md)
+- [Git commands](https://github.com/jpliu24/useful-commands/blob/master/Git%20commands.md)
+- [macOS commands](https://github.com/jpliu24/useful-commands/blob/master/macOS%20commands.md)
 
