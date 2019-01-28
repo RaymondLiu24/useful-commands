@@ -1,5 +1,7 @@
 # macOS commands
 
+###### Resources
+- [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line)
 
 ### Show/Hide Hidden Files
 #### Show
